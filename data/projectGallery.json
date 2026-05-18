@@ -1,0 +1,58 @@
+
+    [
+        {
+            
+                "id": 0,
+                "video": "",
+                "featured": true,
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        },
+        {
+            
+                "id": 1,
+                "video": "",    
+                "featured": true,
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        },
+        {
+            
+                "id": 2,
+                "video": "",
+                "featured": true,
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        },
+        {
+            
+                "id": 3,
+                "video": "",
+                "featured": true,
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        },
+        {
+            
+                "id": 4,
+                "video": "",
+                "featured": true,
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        },{
+            
+                "id": 5,
+                "featured": true,
+                "video": "",
+                "image":"/assets/Img/va.png",
+                "type":"image"
+        }
+        ,{
+            
+                "id": 6,
+                "featured": true,
+                "image":"",
+                "video":"/assets/video/goc.gif",
+                "type":"video"
+        }
+    ]

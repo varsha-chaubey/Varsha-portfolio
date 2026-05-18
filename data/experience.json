@@ -1,0 +1,95 @@
+[
+  {
+    "company": "GOC Productions",
+    "role": "Senior Frontend Developer",
+    "duration": "May 2025 - Present",
+    "location": "Remote · Riga, Latvia",
+    "link":"https://goc.productions/", 
+    "description": [
+      "Led frontend architecture for a large-scale real-time gaming platform.",
+      "Built reusable component systems and scalable frontend workflows.",
+      "Implemented WebRTC and WebSocket communication systems.",
+      "Integrated Unreal Pixel Streaming for immersive browser experiences.",
+      "Optimized rendering performance and frontend state management."
+    ],
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "WebRTC",
+      "Socket.io",
+      "Pixel & Live Streaming",
+      "Unreal Engine",
+      "Vercel",
+      "bitbucket"
+    ]
+  },
+  {
+    "company": "NotHuman.AI",
+    "role": "Full Stack Developer",
+    "duration": "Oct 2024 - May 2025",
+    "location": "Remote · India",
+    "link":"https://www.nothuman.ai/",
+    "description": [
+      "Built scalable healthcare and enterprise applications.",
+      "Designed reusable architecture patterns and dynamic rendering systems.",
+      "Implemented advanced search and optimized frontend performance.",
+      "Worked on scalable API integrations and frontend systems."
+    ],
+    "tech": [
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+      "Strapi",
+      "Tailwind",
+      "Vercel"
+    ]
+  },
+  {
+    "company": "Webexcellies Websolutions",
+    "role": "React.js Developer",
+    "duration": "Mar 2023 - Apr 2024",
+    "location": "Remote · India",
+    "link":"https://www.linkedin.com/company/webexcellis/",
+    "description": [
+      "Built enterprise platforms for environmental data management.",
+      "Developed advanced filtering and search systems.",
+      "Improved frontend responsiveness and rendering efficiency.",
+      "Worked with scalable frontend architecture systems."
+    ],
+    "tech": [
+      "React.js",
+      "Redux",
+      "REST APIs",
+      "Tailwind",
+      "TypeScript"
+    
+    ]}
+    ,
+    {
+  "company": "Codemaya",
+  "role": "Full Stack Developer",
+  "duration": "Jan 2022 - Dec 2022",
+  "location": "Lucknow · India",
+  "link": "https://www.codemaya.com/",
+  "description": [
+    "Contributed to development and maintenance of multiple enterprise web applications.",
+    "Built reusable frontend modules, authentication systems, and API integrations.",
+    "Worked on scalable UI architecture and responsive interfaces.",
+    "Assisted in backend logic implementation and database workflows.",
+    "Participated in deployment, debugging, and production issue resolution."
+  ],
+  "tech": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JavaScript",
+    "Vercel",
+    "deployment"
+
+  ]
+}
+
+  
+]

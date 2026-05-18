@@ -1,0 +1,14 @@
+{
+  "name": "Varsha Chaubey",
+  "title": ["Senior Frontend Engineer", "Full Stack Frontend-Focused Engineer", "Streaming & Scalable Architectures","Next.js, React & Real-Time Interactive Platforms"],
+  "subtitle": "Building scalable real-time systems, architecture-driven frontend platforms, and immersive web experiences. Experienced in leading projects from scratch including architecture design, deployment workflows, performance optimization, API integrations, and production debugging.",
+  "location": "Lucknow, India",
+  "contact": "varshachn18@gmail.com",
+  "experience": "3+ Years",
+  "resume": "/assets/Varsha Chaubey.pdf",
+  "profilePicture":"/assets/Img/profile picture.JPEG",
+  "socials": {
+    "github": "https://github.com/Varsha-Chaubey",
+    "linkedin": "https://www.linkedin.com/in/varshachn/"
+  }
+}

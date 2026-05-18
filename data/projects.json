@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "featured": true,
+    "title": "Real-Time Gaming Platform",
+    "description": "Large-scale multiplayer gaming platform with WebRTC, low-latency synchronization, and immersive browser rendering.",
+    "longDescription": "Architected scalable frontend systems using Next.js, TypeScript, WebRTC, Socket.io, and Unreal Pixel Streaming for real-time communication and interactive multiplayer systems.",
+    "image": "/assets/Img/goc.png",
+    "video": "/projects/gaming-demo.mp4",
+    "gallery": [
+      "/projects/gaming-1.jpg",
+      "/projects/gaming-2.jpg",
+      "/projects/gaming-3.jpg"
+    ],
+    "live": "#",
+    "github": "#"
+  },
+  {
+    "id": 2,
+    "featured": true,
+    "title": "Evironmental Inclusion",
+    "description": "Environmental Inclusion is the first global website dedicated to saving endangered animals. Their mission is straightforward: to rescue as many endangered animals as possible worldwide. They are also committed to raising awareness about the threats these animals face.",
+    "image": "/assets/Img/env.png",
+    "video": "",
+    "gallery": [
+      "/projects/healthcare-1.jpg",
+      "/projects/healthcare-2.jpg"
+    ],
+    "live": "https://www.environmentalinclusion.com/",
+    "github": "#"
+  },
+  {
+    "id": 3,
+    "featured": true,
+    "title": "Plastindia 2026",
+    "description": "PLASTINDIA 2026 is the ultimate event for the plastics industry, uniting global leaders, innovators, and professionals to showcase cutting-edge advancements and trends. This triennial event underscores PLASTINDIA's tradition of excellence and innovation.",
+    "image": "/assets/Img/plast.png",
+    "video": "",
+    "gallery": [
+      "/projects/healthcare-1.jpg",
+      "/projects/healthcare-2.jpg"
+    ],
+    "live": "https://plastindia.org/plastindia-2026",
+    "github": "#"
+  },
+  {
+    "id": 4,
+    "featured": true,
+    "title": "Fullbridge",
+    "description": "Fullbridge is a human-centered, AI-powered learning company that equips students and professionals with real-world business skills, bridging the gap between academic theory and workplace impact.",
+    "image": "/assets/Img/fullbridge.webp",
+    "video": "",
+    "gallery": [
+      "/projects/healthcare-1.jpg",
+      "/projects/healthcare-2.jpg"
+    ],
+    "live": "https://www.fullbridge.com/",
+    "github": "#"
+  },
+  {
+    "id": 5,
+    "featured": true,
+    "title": "Vedobhava Ayurveda",
+    "description": "Vedobhava ayurved offers personalized Ayurvedic care, focusing on natural healing and wellness.",
+    "image": "/assets/Img/va.png",
+    "video": "",
+    "gallery": [
+      "/projects/healthcare-1.jpg",
+      "/projects/healthcare-2.jpg"
+    ],
+    "live": "https://vedobhava.com/",
+    "github": "#"
+  },
+  {
+    "id": 6,
+    "featured": true,
+    "title": "QuayChain",
+    "description": "Secure private LTE/5G networks and AI-powered edge technology for supply chain visibility and real-time data.",
+    "image": "/assets/Img/quaychain.webp",
+    "video": "",
+    "gallery": [
+      "/projects/healthcare-1.jpg",
+      "/projects/healthcare-2.jpg"
+    ],
+    "live": "https://quaychain.com/",
+    "github": "#"
+  }
+]

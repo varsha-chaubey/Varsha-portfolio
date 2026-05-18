@@ -1,0 +1,94 @@
+[
+  {
+    "category": "Frontend Engineering",
+    "description": "Building scalable frontend systems with performance-first architecture.",
+    "skills": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Redux Toolkit",
+      "Context API",
+      "Tailwind CSS",
+      "HTML5/CSS3",
+      "Frontend System Design",
+      "Performance Optimization",
+      "SSR",
+      "CSR",
+      "ISR",
+      "Responsive Design",
+      "API Integration",
+      "Authentication & Authorization"
+    ]
+  },
+
+  {
+    "category": "Backend & APIs",
+    "description": "API integrations and scalable backend workflows.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "REST APIs",
+      "Authentication",
+      "Strapi CMS",
+      "Authentication & Authorization",
+      "API Design"
+    ]
+  },
+
+  {
+    "category": "Real-Time Systems",
+    "description": "Low-latency systems and immersive interactive experiences.",
+    "skills": [
+      "WebRTC",
+      "WebSockets",
+      "Socket.io",
+      "Live Streaming",
+      "Wowza",
+      "Real-Time Communication Systems",
+      "Unreal Pixel Streaming"
+    ]
+  },
+
+  {
+    "category": "AI Assisted Engineering",
+    "description": "AI-powered debugging and accelerated development workflows.",
+    "skills": [
+      "Cursor AI",
+      "ChatGPT",
+      "AI Debugging",
+      "Automation",
+      "AI Workflows"
+    ]
+  },
+  {
+    "category": "Dev Tools & Deployment",
+    "description": "CI/CD pipelines and scalable deployment strategies.",
+    "skills": [
+      "Vercel",
+      "Netlify",
+      "GitHub Actions",
+      "Bitbucket Pipelines",
+      "CI/CD",
+      "Jira",
+      "Github",
+      "Deployment Strategies",
+      "Debugging & Production Monitoring"
+    ]
+  },
+  {
+    "category": "Core Engineering Concepts",
+    "description": "Fundamental principles of software engineering and system design.",
+    "skills": [
+      "Software Design Patterns",
+      "System Optimization",
+      "Algorithms",
+      "Data Structures",
+      "Testing Strategies",
+      "Code Review",
+      "Reusable Architecture"
+    ]
+  }
+]

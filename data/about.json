@@ -1,0 +1,22 @@
+{
+  "title": "Engineering scalable systems with performance-first architecture.",
+  "description": "Frontend-focused Full Stack Engineer with 3+ years of experience building and scaling high-performance web applications using React.js, Next.js, TypeScript, and Node.js. Specialized in real-time systems, WebRTC, WebSockets, streaming platforms, and scalable frontend architecture. Experienced in leading projects from scratch including architecture design, deployment workflows, performance optimization, API integrations, and production debugging. Worked across gaming, healthcare, and enterprise platforms with hands-on experience in interactive systems and AI-assisted development workflows using tools like Cursor AI and ChatGPT.",
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": "3+"
+    },
+    {
+      "label": "Projects Delivered",
+      "value": "20+"
+    },
+   {
+      "label": "Industries",
+      "value": "4+"
+   },
+    {
+      "label": "Tech Stack",
+      "value": "25+"
+    }
+  ]
+}
