@@ -22,19 +22,19 @@ export default function About() {
           <FadeUp>
             <div className="space-y-5">
               {[
-                "3+ years of experience building scalable and high-performance web applications.",
+                // "3+ years of experience building scalable and high-performance web applications.",
 
-                "Specialized in React.js, Next.js, TypeScript, Node.js and Full Stack Frontend Focused Engineer.",
+                // "Specialized in React.js, Next.js, TypeScript, Node.js and Full Stack Frontend Focused Engineer.",
 
-                "Hands-on expertise in real-time systems using WebRTC, WebSockets, and streaming technologies.",
+                // "Hands-on expertise in real-time systems using WebRTC, WebSockets, and streaming technologies.",
 
                 "Experienced in building production-grade scalable UI systems and reusable component architectures.",
 
-                "Worked across gaming, healthcare, enterprise, and interactive browser platforms.",
+                // "Worked across gaming, healthcare, enterprise, and interactive browser platforms.",
 
                 "Strong focus on performance optimization, deployment workflows, and scalable frontend engineering.",
 
-                "Experience leading projects from scratch including architecture planning and production debugging.",
+                "Experience in leading projects from scratch including architecture planning and production debugging.",
 
                 "AI-assisted development workflow experience using Cursor AI, ChatGPT, and automation tooling.",
               ].map((point) => (
@@ -51,7 +51,22 @@ export default function About() {
                 </div>
               ))}
             </div>
+            <div className="mt-10 grid grid-cols-2 gap-5">
+              {about.stats.map((item, id) =>  (
+                <div
+                  key={item.label}
+                  className="rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur-xl"
+                >
+                  <h3 className="text-3xl font-bold text-white">
+                    {item.value}
+                  </h3>
 
+                  <p className="mt-2 text-sm text-slate-400">
+                    {item.label}
+                  </p>
+                </div>
+              ))}
+            </div>
           </FadeUp>
 
           {/* RIGHT */}
@@ -75,7 +90,7 @@ export default function About() {
                     "Scalable UI Systems",
                     "API Design & Integration",
                     "Production Debugging",
-                    "Cross Team Collaboration & Project Ownership"
+                    // "Cross Team Collaboration & Project Ownership"
                   ].map((item) => (
                     <div
                       key={item}
@@ -85,24 +100,11 @@ export default function About() {
                     </div>
                   ))}
                 </div>
+                
               </div>
+              
             </div>
-             <div className="mt-10 grid grid-cols-2 gap-5">
-              {about.stats.map((item) => (
-                <div
-                  key={item.label}
-                  className="rounded-3xl border border-white/10 bg-white/5 p-6 backdrop-blur-xl"
-                >
-                  <h3 className="text-3xl font-bold text-white">
-                    {item.value}
-                  </h3>
 
-                  <p className="mt-2 text-sm text-slate-400">
-                    {item.label}
-                  </p>
-                </div>
-              ))}
-            </div>
           </FadeUp>
         </div>
       </div>

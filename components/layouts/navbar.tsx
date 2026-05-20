@@ -11,9 +11,9 @@ import {
 } from "@/components/ui/sheet"
 
 const navItems = [
-  { name: "About", href: "#about" },
-  { name: "Experience", href: "#experience" },
   { name: "Projects", href: "#projects" },
+  { name: "Experience", href: "#experience" },
+  { name: "About", href: "#about" },
   { name: "Skills", href: "#skills" },
   { name: "Contact", href: "#contact" },
 ]
@@ -32,12 +32,12 @@ export default function Navbar() {
             Varsha.
           </Link>
 
-          <nav className="hidden items-center gap-8 md:flex">
+          <nav className="hidden items-center gap-8 md:flex ">
             {navItems.map((item) => (
               <a
                 key={item.name}
                 href={item.href}
-                className="text-sm text-slate-300 transition hover:text-white"
+                className="text-sm text-slate-300 transition  hover:text-violet-400 "
               >
                 {item.name}
               </a>
@@ -63,7 +63,7 @@ export default function Navbar() {
                 side="right"
                 className="border-white/10 bg-[#050816]"
               >
-                <div className="mt-10 flex flex-col gap-6">
+                <div className="mt-10 flex flex-col ml-5 gap-6">
                   {navItems.map((item) => (
                     <a
                       key={item.name}

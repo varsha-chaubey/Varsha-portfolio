@@ -55,7 +55,7 @@ export default function Contact() {
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-4">
+                  {/* <div className="flex items-center gap-4">
                     <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
                       <Phone className="h-5 w-5 text-violet-300" />
                     </div>
@@ -87,8 +87,8 @@ export default function Contact() {
                       <p className="text-white">
                         {contact.location}
                       </p>
-                    </div>
-                  </div>
+                    </div> */}
+                  {/* </div> */}
                 </div>
               </div>
 

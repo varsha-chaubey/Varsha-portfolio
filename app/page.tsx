@@ -13,9 +13,11 @@ export default function Home() {
     <main className="relative overflow-hidden">
       <Navbar />
       <Hero />
-      <About />
+        <Projects />
       <Experience />
-      <Projects />
+      <About />
+     
+     
       <Skills />
       <Contact />
       <Footer />
