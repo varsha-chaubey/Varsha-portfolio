@@ -9,7 +9,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="relative px-4 py-10"
+      className="relative px-4 mt-10 "
     >
       <div className="container-width">
         <SectionHeading

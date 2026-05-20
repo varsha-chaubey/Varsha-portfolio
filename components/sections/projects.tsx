@@ -17,7 +17,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="relative px-4 py-10"
+      className="relative px-4 mt-10"
     >
       {/* BACKGROUND GLOW */}
       <div className="absolute right-0 top-1/3 h-[500px] w-[500px] rounded-full bg-cyan-500/10 blur-[140px]" />

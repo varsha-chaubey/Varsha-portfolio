@@ -9,7 +9,7 @@ export default function Skills() {
   return (
     <section
       id="skills"
-      className="relative px-4 py-10"
+      className="relative px-4 mt-10"
     >
       {/* BACKGROUND */}
       <div className="absolute left-0 top-1/2 h-[500px] w-[500px] rounded-full bg-violet-500/10 blur-[140px]" />
